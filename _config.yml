@@ -17,7 +17,7 @@ title: Maistra
 # email: project-contact-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Maistra is an opinionated distribution of Istio designed to work with Openshift. It combines Kiali, Jaeger, and Prometheus into a platform managed according to the OperatorHub lifecycle.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/maistra_website" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ‏maistraio
 github_username: maistra
