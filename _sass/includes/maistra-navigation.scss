@@ -67,7 +67,7 @@ div.nav-wrapper {
   }
 
   .menu {
-    background: $white;
+    background: $darkblue;
     border: 1px solid $lightblue;
     display: none;
     list-style: none;
@@ -80,6 +80,7 @@ div.nav-wrapper {
 
     a, span {
       border-bottom: 1px solid $gray-0;
+      color: $white;
       display: block;
       padding: 15px;
     }
